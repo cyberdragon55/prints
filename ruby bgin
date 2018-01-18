@@ -1,0 +1,4 @@
+puts("nothing")
+=begin
+"special"
+=end
